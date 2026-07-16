@@ -1,0 +1,96 @@
+{
+  "spireTogether:Screen": {
+    "TEXT": [
+      "保存",
+      "从剪贴板粘贴",
+      "取消",
+      "创建房间",
+      "开服并开始游戏",
+      "多人游戏",
+      "端口",
+      "IP",
+      "加入游戏"
+    ],
+    "EXTRA_TEXT": [
+      ""
+    ]
+  },
+  "spireTogether:Panels": {
+    "TEXT": [
+      "Steam 联机",
+      "通过 Steam 加入或创建游戏",
+      "IP/端口联机",
+      "通过手动输入 IP 和端口与非 Steam 用户联机",
+      "作为主机",
+      "创建一个多人游戏房间",
+      "加入游戏",
+      "加入一个多人游戏房间",
+      "杀戮尖塔",
+      "本体游戏更新日志",
+      "Together in Spire",
+      "Together in Spire 更新日志"
+    ],
+    "EXTRA_TEXT": [
+      ""
+    ]
+  },
+  "spireTogether:MainMenuPanelOverlay": {
+    "TEXT": [
+      "定制外观",
+      "兑换码",
+      "存档清理"
+    ],
+    "EXTRA_TEXT": [
+      ""
+    ]
+  },
+  "spireTogether:MPCodeRedeemScreen": {
+    "TEXT": [
+      "兑换码",
+      "兑换",
+      "你已经拥有这件物品",
+      "兑换码无效",
+      "兑换成功！"
+    ],
+    "EXTRA_TEXT": [
+      ""
+    ]
+  },
+  "spireTogether:SavePurgerScreen": {
+    "TEXT": [
+      "你想清除哪些存档？",
+      "存档总数",
+      "模组版本过旧的存档",
+      "模组列表不同的存档",
+      "早于",
+      "天的存档",
+      "删除"
+    ],
+    "EXTRA_TEXT": [
+      ""
+    ]
+  },
+  "spireTogether:SteamLobbyListScreen": {
+    "TEXT": [
+      "筛选：",
+      "名称：",
+      "类型：",
+      "显示上锁的房间",
+      "模组列表一致",
+      "隐藏 Together in Spire 版本不兼容的房间",
+      "暂时不可用"
+    ],
+    "EXTRA_TEXT": [
+      ""
+    ]
+  },
+  "spireTogether:CreateLobbyScreen": {
+    "TEXT": [
+      "房间名称：",
+      "密码："
+    ],
+    "EXTRA_TEXT": [
+      ""
+    ]
+  }
+}
